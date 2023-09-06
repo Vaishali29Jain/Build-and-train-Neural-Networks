@@ -6,7 +6,7 @@ there was string in any column then that row was removed as values in the featur
 numerical. 
 2-For the numerical variables to have zero mean and unit variance, StandardScaler from 
 sklearn was used. 
-3-Extracting the features and target variable. Target variable is column with binary values, 
+3-Extracting the features and target variable. The target variable is column with binary values, 
 that tells about result is Positive or Negative. 
 4- Data was split into test and train using train test split from sklearn.
 

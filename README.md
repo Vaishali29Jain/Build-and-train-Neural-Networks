@@ -1,5 +1,6 @@
 # Build-and-train-Neural-Networks
-
+Dataset- Pima Indians Diabetes Database - https://www.kaggle.com/uciml/pima-indians-diabetes-database
+This dataset, sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, aims to predict diabetes diagnosis based on specific diagnostic measurements. It comprises medical predictor variables like pregnancy count, BMI, insulin level, age, etc., with a target variable, Outcome. 
 # Data preprocessing 
 1-Preprocessing is done by first removing the wrong values from the dataset. For example, if 
 there was string in any column then that row was removed as values in the features should be 
